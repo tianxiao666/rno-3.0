@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj
+END
+cardispatch_useCar_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/cardispatch_useCar_obj.js
+END
+calendar_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/calendar_obj.js
+END
+carmanage_driverlist_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/carmanage_driverlist_obj.js
+END
+carmanage_carlist_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/carmanage_carlist_obj.js
+END
+cardispatch_sendCar_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/cardispatch_sendCar_obj.js
+END
+carflow_saveTerminal_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/carflow_saveTerminal_obj.js
+END
+query_sendCar_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/query_sendCar_obj.js
+END
+cardispatch_returnCar_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/cardispatch_returnCar_obj.js
+END
+carflow_saveDriver_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/carflow_saveDriver_obj.js
+END
+cardispatch_lookupworkorder_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/cardispatch_lookupworkorder_obj.js
+END
+carmanage_terminallist_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/carmanage_terminallist_obj.js
+END
+cardispatch_applyworkorder_obj.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/cardispatch/js/obj/cardispatch_applyworkorder_obj.js
+END

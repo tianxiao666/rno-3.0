@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty
+END
+StaffdutyDutyinst.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyDutyinst.hbm.xml
+END
+Skilltype.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/Skilltype.java
+END
+StaffdutyGroupinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyGroupinfo.hbm.xml
+END
+StaffdutyDutylog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyDutylog.hbm.xml
+END
+StaffdutyShifts.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyShifts.java
+END
+StaffdutyDutytemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyDutytemplate.java
+END
+StaffdutyFrequency.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyFrequency.java
+END
+StaffdutyFrequency.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyFrequency.hbm.xml
+END
+StaffdutyDutytemplate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyDutytemplate.hbm.xml
+END
+StaffdutyShifts.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyShifts.hbm.xml
+END
+StaffdutyDutylog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyDutylog.java
+END
+StaffdutyGroupinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyGroupinfo.java
+END
+Skilltype.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/Skilltype.hbm.xml
+END
+StaffdutyDutyinst.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/StaffdutyDutyinst.java
+END
+Skill.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/Skill.hbm.xml
+END
+Staffskill.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/Staffskill.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/Skill.java
+END
+Staffskill.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/staffduty/Staffskill.hbm.xml
+END

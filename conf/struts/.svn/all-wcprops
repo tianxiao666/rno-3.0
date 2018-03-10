@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/source/!svn/ver/13931/iosm/rno_branches/v3.0/conf/struts
+END
+routineinspection-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/routineinspection-struts.xml
+END
+workmanage_initworkflow-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/workmanage_initworkflow-struts.xml
+END
+networkresourcemaintenance-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/networkresourcemaintenance-struts.xml
+END
+mobile-networkresourcemanage-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/mobile-networkresourcemanage-struts.xml
+END
+workmanage-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/workmanage-struts.xml
+END
+staffduty-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/staffduty-struts.xml
+END
+report-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/report-struts.xml
+END
+workmanage_commonquery-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/workmanage_commonquery-struts.xml
+END
+systemauthority-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/systemauthority-struts.xml
+END
+systemManage-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/systemManage-struts.xml
+END
+.urgentrepair-struts.mex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/.urgentrepair-struts.mex
+END
+gis-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/gis-struts.xml
+END
+informationmanage-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/informationmanage-struts.xml
+END
+.bizcommonquery-struts.mex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/.bizcommonquery-struts.mex
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/struts.xml
+END
+gisdispatch-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/gisdispatch-struts.xml
+END
+cms-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/cms-struts.xml
+END
+resourcedictionary-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/resourcedictionary-struts.xml
+END
+rnov1_3-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/rnov1_3-struts.xml
+END
+systemorganization-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/systemorganization-struts.xml
+END
+systemaccount-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/systemaccount-struts.xml
+END
+map-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/map-struts.xml
+END
+networkResource-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/networkResource-struts.xml
+END
+rno-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13464/iosm/rno_branches/v3.0/conf/struts/rno-struts.xml
+END
+test-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/test-struts.xml
+END
+pdagpslocation-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/pdagpslocation-struts.xml
+END
+systemStaff-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/systemStaff-struts.xml
+END
+system-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/system-struts.xml
+END
+resourcewebservice-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/resourcewebservice-struts.xml
+END
+bizmsg-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/bizmsg-struts.xml
+END
+urgentrepair-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/urgentrepair-struts.xml
+END
+ops-login-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/ops-login-struts.xml
+END
+cardispatch-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/cardispatch-struts.xml
+END
+common-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/common-struts.xml
+END
+selfservice-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/selfservice-struts.xml
+END
+physicalres-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/physicalres-struts.xml
+END
+error-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/error-struts.xml
+END
+download-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/download-struts.xml
+END
+log-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/log-struts.xml
+END
+report-net-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/report-net-struts.xml
+END
+rnov1_2-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13931/iosm/rno_branches/v3.0/conf/struts/rnov1_2-struts.xml
+END
+home-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/home-struts.xml
+END
+restree-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/restree-struts.xml
+END
+.systemauthority-struts.mex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/.systemauthority-struts.mex
+END
+workorderinterface-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/workorderinterface-struts.xml
+END
+exceptionhandler-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/struts/exceptionhandler-struts.xml
+END
+rno-upload-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13715/iosm/rno_branches/v3.0/conf/struts/rno-upload-struts.xml
+END

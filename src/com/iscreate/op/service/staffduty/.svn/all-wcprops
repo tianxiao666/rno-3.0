@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty
+END
+StaffDutyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffDutyServiceImpl.java
+END
+StaffDutyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffDutyService.java
+END
+StaffPlanDutyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffPlanDutyService.java
+END
+StaffPlanDutyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffPlanDutyServiceImpl.java
+END
+StaffService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffService.java
+END
+StaffServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffServiceImpl.java
+END
+StaffSkillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffSkillService.java
+END
+StaffSkillServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/staffduty/StaffSkillServiceImpl.java
+END

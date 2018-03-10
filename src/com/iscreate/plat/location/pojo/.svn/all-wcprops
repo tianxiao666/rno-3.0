@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/location/pojo
+END
+PdaClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/location/pojo/PdaClient.java
+END
+pda_gps_location.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/location/pojo/pda_gps_location.hbm.xml
+END
+pda_client.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/location/pojo/pda_client.hbm.xml
+END
+PdaGpsLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/location/pojo/PdaGpsLocation.java
+END

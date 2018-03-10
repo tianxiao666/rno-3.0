@@ -1,0 +1,869 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel
+END
+Pole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Pole.xml
+END
+Task_AE_rel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Task_AE_rel.xml
+END
+EquipBoard_GSM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EquipBoard_GSM.xml
+END
+LightningProtBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/LightningProtBox.xml
+END
+Sensor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Sensor.xml
+END
+ConnectorJoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ConnectorJoint.xml
+END
+Antenna.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Antenna.xml
+END
+FiberCrossCabinet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberCrossCabinet.xml
+END
+PowerDistributionFrame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PowerDistributionFrame.xml
+END
+WirelessChannel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/WirelessChannel.xml
+END
+Router.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Router.xml
+END
+OpticalTerminalDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalTerminalDevice.xml
+END
+Floor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Floor.xml
+END
+EntranceGuard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EntranceGuard.xml
+END
+ACSwitch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ACSwitch.xml
+END
+ACFeederPanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ACFeederPanel.xml
+END
+Figureline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Figureline.xml
+END
+FiberSection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberSection.xml
+END
+PolelineSection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PolelineSection.xml
+END
+PropertyOwnership.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PropertyOwnership.xml
+END
+NetworkresourceHelp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/NetworkresourceHelp.xml
+END
+Task_AE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Task_AE.xml
+END
+PowerTerminal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PowerTerminal.xml
+END
+RectifyModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/RectifyModule.xml
+END
+Figure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Figure.xml
+END
+EnergySavingFacility.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EnergySavingFacility.xml
+END
+Figurenode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Figurenode.xml
+END
+Corridor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Corridor.xml
+END
+GroupUserService.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/GroupUserService.xml
+END
+FiberCore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberCore.xml
+END
+NetworkElement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/NetworkElement.xml
+END
+PrimaryEquipFrame_TD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PrimaryEquipFrame_TD.xml
+END
+Photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Photo.xml
+END
+Net_Maintenance_Records.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Net_Maintenance_Records.xml
+END
+Station.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Station.xml
+END
+EarthConnCabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EarthConnCabel.xml
+END
+AirExhaustDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/AirExhaustDevice.xml
+END
+ODM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ODM.xml
+END
+UPS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/UPS.xml
+END
+EquipBoard_TD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EquipBoard_TD.xml
+END
+OpticalTerminalDeviceBoard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalTerminalDeviceBoard.xml
+END
+DCLightningProtModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DCLightningProtModule.xml
+END
+Firewall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Firewall.xml
+END
+ODU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ODU.xml
+END
+AC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/AC.xml
+END
+Gateway.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Gateway.xml
+END
+EntranceGuardDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EntranceGuardDevice.xml
+END
+TransmissionPort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/TransmissionPort.xml
+END
+BaseStation_GSM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BaseStation_GSM.xml
+END
+ManWell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ManWell.xml
+END
+BaseStation_TD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BaseStation_TD.xml
+END
+IAD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/IAD.xml
+END
+Area.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Area.xml
+END
+Passage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Passage.xml
+END
+VoltageStabilize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/VoltageStabilize.xml
+END
+OpticalModem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalModem.xml
+END
+PipeGate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PipeGate.xml
+END
+EntranceGuardLock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EntranceGuardLock.xml
+END
+PowerTransducer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PowerTransducer.xml
+END
+OpticalRouteP2P.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalRouteP2P.xml
+END
+Ammeter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Ammeter.xml
+END
+PipelineSection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PipelineSection.xml
+END
+BaseStation_repeater.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BaseStation_repeater.xml
+END
+DCDistributionUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DCDistributionUnit.xml
+END
+CableSustainFrame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/CableSustainFrame.xml
+END
+DCControllerModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DCControllerModule.xml
+END
+TrunklineAmplifier.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/TrunklineAmplifier.xml
+END
+Res_verify_task.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Res_verify_task.xml
+END
+DDM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DDM.xml
+END
+UPSBattery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/UPSBattery.xml
+END
+ONU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ONU.xml
+END
+RoomEarthConn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/RoomEarthConn.xml
+END
+DictionaryEntry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DictionaryEntry.xml
+END
+PDU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PDU.xml
+END
+OpticalRouteSP2SP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalRouteSP2SP.xml
+END
+DDFTerminal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DDFTerminal.xml
+END
+VerticalPipe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/VerticalPipe.xml
+END
+BearingPole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BearingPole.xml
+END
+EnvironmentMonitor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EnvironmentMonitor.xml
+END
+Tower.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Tower.xml
+END
+Stairs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Stairs.xml
+END
+Joint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Joint.xml
+END
+Tbl_Unique_Uniquetable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Tbl_Unique_Uniquetable.xml
+END
+UPSControlModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/UPSControlModule.xml
+END
+OpticalTerminal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalTerminal.xml
+END
+Powercable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Powercable.xml
+END
+Transformer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Transformer.xml
+END
+TransmissionDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/TransmissionDevice.xml
+END
+Room.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Room.xml
+END
+HangWall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/HangWall.xml
+END
+BaseStation_WLAN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BaseStation_WLAN.xml
+END
+Sys_Area.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Sys_Area.xml
+END
+Switcher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Switcher.xml
+END
+Cell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Cell.xml
+END
+BaseStation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BaseStation.xml
+END
+TowertopAmplifier.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/TowertopAmplifier.xml
+END
+ACLightningProtEarthConn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ACLightningProtEarthConn.xml
+END
+TransmissionNetwork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/TransmissionNetwork.xml
+END
+Subsidiary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Subsidiary.xml
+END
+FiberRepRemoteDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberRepRemoteDevice.xml
+END
+DCBattery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DCBattery.xml
+END
+PigtailedFiber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PigtailedFiber.xml
+END
+ODF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ODF.xml
+END
+CardReader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/CardReader.xml
+END
+OilEngine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OilEngine.xml
+END
+RRU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/RRU.xml
+END
+IDU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/IDU.xml
+END
+PipeRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PipeRoute.xml
+END
+Terminal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Terminal.xml
+END
+DCLightningProtEarthConn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DCLightningProtEarthConn.xml
+END
+PBX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PBX.xml
+END
+BuriedlineSection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/BuriedlineSection.xml
+END
+Lift.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Lift.xml
+END
+MarkPost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/MarkPost.xml
+END
+PipeHole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PipeHole.xml
+END
+AP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/AP.xml
+END
+FiberRepLocalDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberRepLocalDevice.xml
+END
+AirConditioning.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/AirConditioning.xml
+END
+GroupUserSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/GroupUserSite.xml
+END
+CompositiveFrame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/CompositiveFrame.xml
+END
+Frame_DF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Frame_DF.xml
+END
+WirelessRepDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/WirelessRepDevice.xml
+END
+FiberTerminalCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberTerminalCase.xml
+END
+Odmterminallayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Odmterminallayout.xml
+END
+EarthConnDistributionUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/EarthConnDistributionUnit.xml
+END
+Feedcable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Feedcable.xml
+END
+TransmissionSection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/TransmissionSection.xml
+END
+PrimaryEquipFrame_GSM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PrimaryEquipFrame_GSM.xml
+END
+MicrowaveOrFSO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/MicrowaveOrFSO.xml
+END
+Attachment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Attachment.xml
+END
+ElectricalTerminal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ElectricalTerminal.xml
+END
+Camera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Camera.xml
+END
+ExtinguishingAProtDevice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ExtinguishingAProtDevice.xml
+END
+DDF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DDF.xml
+END
+FiberDistributionCabinet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/FiberDistributionCabinet.xml
+END
+Service_Maintenance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Service_Maintenance.xml
+END
+ACAccessUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/ACAccessUnit.xml
+END
+Fiber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Fiber.xml
+END
+SubPipeHole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/SubPipeHole.xml
+END
+PoleRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/PoleRoute.xml
+END
+OpticalRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/OpticalRoute.xml
+END
+CableEntranceHole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/CableEntranceHole.xml
+END
+DCRectifyFrame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/DCRectifyFrame.xml
+END
+Network_Resource_Maintenance_Records.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/entitymodel/Network_Resource_Maintenance_Records.xml
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/srcsvn/source/!svn/ver/15741/iosm/rno_branches/v3.0/WebRoot
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/error.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/login.jsp
+END
+loginOpsSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/loginOpsSuccess.jsp
+END
+success.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/success.html
+END
+loginNetWorkSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/loginNetWorkSuccess.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/index.html
+END
+loginNetWorkFailed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/loginNetWorkFailed.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/index.jsp
+END
+success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/success.jsp
+END
+log.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/log.jsp
+END
+loginOpsFailed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/loginOpsFailed.jsp
+END

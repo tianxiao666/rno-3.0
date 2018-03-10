@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/source/!svn/ver/15739/iosm/rno_branches/v3.0/src
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/srcsvn/source/!svn/ver/13095/iosm/rno_branches/v3.0/src/log4j.dtd
+END
+jobnode-capacity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/source/!svn/ver/13763/iosm/rno_branches/v3.0/src/jobnode-capacity.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/srcsvn/source/!svn/ver/13095/iosm/rno_branches/v3.0/src/log4j.xml
+END
+hbase-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/source/!svn/ver/14079/iosm/rno_branches/v3.0/src/hbase-site.xml
+END
+sysconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/15462/iosm/rno_branches/v3.0/src/sysconfig.xml
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/source/!svn/ver/14071/iosm/rno_branches/v3.0/src/mapred-site.xml
+END
+jobnode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/source/!svn/ver/14080/iosm/rno_branches/v3.0/src/jobnode.xml
+END
+hive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/source/!svn/ver/13220/iosm/rno_branches/v3.0/src/hive.xml
+END
+yarn-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/14071/iosm/rno_branches/v3.0/src/yarn-site.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/14071/iosm/rno_branches/v3.0/src/core-site.xml
+END

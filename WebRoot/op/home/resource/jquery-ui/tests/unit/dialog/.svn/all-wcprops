@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog
+END
+dialog_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog_options.js
+END
+dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog.html
+END
+dialog_core.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog_core.js
+END
+dialog_events.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog_events.js
+END
+dialog_tickets.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog_tickets.js
+END
+dialog_methods.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog_methods.js
+END
+dialog_defaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/home/resource/jquery-ui/tests/unit/dialog/dialog_defaults.js
+END

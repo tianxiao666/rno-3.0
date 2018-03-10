@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="rnov1_3" extends="struts-default">
+	
+	<!-- 初始化用户自定义统计报表 -->
+	 <action name="initLteCellManageAction" class="rnoLteCellManageAction"
+			method="initLteCellManageAction">
+			<result name="success">/op/rno/rno_lte_cellmanage_entry.jsp</result>
+		</action>
+	<!-- lte小区分页查询 -->
+	<action name="queryLteCellByPageForAjaxAction" class="rnoLteCellManageAction" method="queryLteCellByPageForAjaxAction">
+	</action>
+	<!-- 查询下倾以及同站小区的详情 -->
+	<action name="queryLteCellAndCositeCellsDetailForAjaxAction" class="rnoLteCellManageAction" method="queryLteCellAndCositeCellsDetailForAjaxAction">
+	</action>
+	<!-- 编辑Lte小区的详情 -->
+	<action name="updateLteCellAndCoSiteCellDetailForAjaxAction" class="rnoLteCellManageAction" 
+	        method="updateLteCellAndCoSiteCellDetailForAjaxAction">
+	</action>
+	
+	
+	<!-- LTE小区地图展示模块 start-->
+	<action name="initRnoLteMapOperAction" class="rnoLteMapOperAction"
+			method="initRnoLteMapOperAction">
+			<result name="success">/op/rno/rno_lte_cell_map.jsp</result>
+	</action>
+	<action name="getLteCellByPageForAjaxAction" class="rnoLteMapOperAction"
+			method="getLteCellByPageForAjaxAction">
+	</action>
+	<action name="getLteCellAndCositeCellsDetailForAjaxAction" class="rnoLteMapOperAction"
+			method="getLteCellAndCositeCellsDetailForAjaxAction">
+	</action>
+	<action name="updateLteCellDetailsForAjaxAction" class="rnoLteMapOperAction"
+			method="updateLteCellDetailsForAjaxAction">
+	</action>
+	<action name="getLteCellDetailForAjaxAction" class="rnoLteMapOperAction"
+			method="getLteCellDetailForAjaxAction">
+	</action>
+	<!-- LTE小区地图展示模块 end-->
+	
+	<!-- 删除lte小区 -->
+	<action name="deleteLteCellByIdsForAjaxAction" class="rnoLteCellManageAction" method="deleteLteCellByIdsForAjaxAction">
+	</action>
+	</package>
+</struts>

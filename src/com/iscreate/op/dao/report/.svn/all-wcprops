@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report
+END
+UrgentRepairReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/UrgentRepairReportDaoImpl.java
+END
+UrgentRepairReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/UrgentRepairReportDao.java
+END
+StaffTaskCountMonthReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/StaffTaskCountMonthReportDaoImpl.java
+END
+StaffTaskCountMonthReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/StaffTaskCountMonthReportDao.java
+END
+AnalyseFaultCountAndResourceBalanceReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/AnalyseFaultCountAndResourceBalanceReportDaoImpl.java
+END
+BaseStationOutDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/BaseStationOutDaoImpl.java
+END
+AnalyseFaultCountAndResourceBalanceReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/AnalyseFaultCountAndResourceBalanceReportDao.java
+END
+BaseStationOutDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/BaseStationOutDao.java
+END
+RoutineinspectionReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/RoutineinspectionReportDao.java
+END
+RoutineinspectionReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/RoutineinspectionReportDaoImpl.java
+END
+CarCensusReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/CarCensusReportDao.java
+END
+CarCensusReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/CarCensusReportDaoImpl.java
+END
+CommentReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/CommentReportDaoImpl.java
+END
+CommentReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/CommentReportDao.java
+END
+CountFaultBaseStationTopFiveTenByOrgReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/CountFaultBaseStationTopFiveTenByOrgReportDao.java
+END
+CountFaultBaseStationTopFiveTenByOrgReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/CountFaultBaseStationTopFiveTenByOrgReportDaoImpl.java
+END
+FaultBaseStationTopTenReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/FaultBaseStationTopTenReportDaoImpl.java
+END
+FaultBaseStationTopTenReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/FaultBaseStationTopTenReportDao.java
+END
+OrgWorkOrderCountMonthReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/OrgWorkOrderCountMonthReportDaoImpl.java
+END
+OrgWorkOrderCountMonthReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/OrgWorkOrderCountMonthReportDao.java
+END
+PortalReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/PortalReportDaoImpl.java
+END
+PortalReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/PortalReportDao.java
+END
+OrgStaffCountMonthReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/OrgStaffCountMonthReportDao.java
+END
+OrgStaffCountMonthReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/report/OrgStaffCountMonthReportDaoImpl.java
+END

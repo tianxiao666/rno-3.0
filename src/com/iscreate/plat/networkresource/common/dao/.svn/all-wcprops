@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/common/dao
+END
+NetworkResourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/common/dao/NetworkResourceDao.java
+END
+NetworkResourceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/common/dao/NetworkResourceDaoImpl.java
+END
+NetworkResourceManageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/common/dao/NetworkResourceManageDao.java
+END
+NetworkResourceManageDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/common/dao/NetworkResourceManageDaoImpl.java
+END

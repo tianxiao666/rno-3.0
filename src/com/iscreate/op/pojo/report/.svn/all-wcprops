@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report
+END
+ReportStaffTaskCountMonth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportStaffTaskCountMonth.hbm.xml
+END
+ReportOrgStaffSkillMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportOrgStaffSkillMonth.java
+END
+ReportOrgWorkOrderCountMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportOrgWorkOrderCountMonth.java
+END
+ReportMessageMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportMessageMonth.java
+END
+ReportComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportComment.java
+END
+ReportComment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportComment.hbm.xml
+END
+ReportMessageMonth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportMessageMonth.hbm.xml
+END
+ReportOrgWorkOrderCountMonth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportOrgWorkOrderCountMonth.hbm.xml
+END
+ReportOrgStaffSkillMonth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportOrgStaffSkillMonth.hbm.xml
+END
+ReportStaffTaskCountMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportStaffTaskCountMonth.java
+END
+ReportOrgStaffCountMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportOrgStaffCountMonth.java
+END
+ReportOrgStaffCountMonth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/report/ReportOrgStaffCountMonth.hbm.xml
+END

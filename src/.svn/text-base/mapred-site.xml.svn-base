@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<configuration>
+	<property>
+		<name>mapreduce.framework.name</name>
+		<value>yarn</value>
+	</property>
+	<property>
+		<name>mapred.remote.os</name>
+		<value>Linux</value>
+	</property>
+	<property>
+		<name>mapreduce.app-submission.cross-platform</name>
+		<value>true</value>
+	</property>
+	<property>
+		<name>mapreduce.jobhistory.address</name>
+		<value>master.iscreate.com:10020</value>
+	</property>
+	<property>
+		<name>yarn.app.mapreduce.am.staging-dir</name>
+		<value>/user</value>
+	</property>
+	<property>
+		<name>mapreduce.application.classpath</name>
+		<value>
+			/opt/cloudera/parcels/CDH/etc/hadoop,
+			/opt/cloudera/parcels/CDH/lib/hadoop/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop/lib/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop-hdfs/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop-hdfs/lib/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/lib/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop-yarn/*,
+			/opt/cloudera/parcels/CDH/lib/hadoop-yarn/lib/*
+		</value>
+	</property>
+</configuration>

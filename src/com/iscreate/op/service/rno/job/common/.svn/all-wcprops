@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common
+END
+NodeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/NodeResource.java
+END
+JobWorkerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/JobWorkerStatus.java
+END
+NodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/NodeType.java
+END
+JobProgressEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/JobProgressEventType.java
+END
+VmState.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/VmState.java
+END
+KillResponseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/KillResponseType.java
+END
+JobState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/JobState.java
+END
+JobNodeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/JobNodeState.java
+END
+ListenPortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/ListenPortType.java
+END
+TestPo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/TestPo.java
+END
+JobFramework.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/common/JobFramework.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/dictionary
+END
+preserveResourceDictionary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/dictionary/preserveResourceDictionary.jsp
+END
+preserveAttributeEntityLevelDictionaryForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/dictionary/preserveAttributeEntityLevelDictionaryForAjax.jsp
+END
+preserveAttributeDictionaryForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/dictionary/preserveAttributeDictionaryForAjax.jsp
+END
+preserveEntityDictionaryForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/dictionary/preserveEntityDictionaryForAjax.jsp
+END
+preserveAttributeNormalLevelDictionaryForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/dictionary/preserveAttributeNormalLevelDictionaryForAjax.jsp
+END

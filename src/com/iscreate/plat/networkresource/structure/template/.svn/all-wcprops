@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template
+END
+AssociatedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/AssociatedType.java
+END
+StructurePrimary.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructurePrimary.java
+END
+StructureModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructureModule.java
+END
+StructureModuleEntityGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructureModuleEntityGroup.java
+END
+StructureModuleLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructureModuleLibrary.java
+END
+StructureModuleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructureModuleBuilder.java
+END
+StructureModuleEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructureModuleEntity.java
+END
+StructureModuleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/StructureModuleNode.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput
+END
+FlowTaskActionRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput/FlowTaskActionRecord.java
+END
+IscreateFlowDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput/IscreateFlowDefinition.java
+END
+DataInputServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput/DataInputServiceBean.java
+END
+NotionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput/NotionInfo.java
+END
+FlowTaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput/FlowTaskInfo.java
+END
+FlowInstanceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/datainput/FlowInstanceInfo.java
+END

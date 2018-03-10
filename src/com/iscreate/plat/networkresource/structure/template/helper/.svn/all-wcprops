@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper
+END
+XmlSerializableNodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializableNodeFilter.java
+END
+XmlSerializableToModuleEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializableToModuleEntity.java
+END
+XmlSerializableToModuleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializableToModuleNode.java
+END
+XmlSerializableToModuleEntityGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializableToModuleEntityGroup.java
+END
+StructureModuleSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/StructureModuleSerializable.java
+END
+XmlSerializableToViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializableToViews.java
+END
+XmlSerializableToStructureName.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializableToStructureName.java
+END
+XmlNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlNodeList.java
+END
+StructureModuleXmlFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/StructureModuleXmlFileLoader.java
+END
+XmlSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/template/helper/XmlSerializable.java
+END

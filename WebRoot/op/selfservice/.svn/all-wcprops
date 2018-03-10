@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/selfservice
+END
+selfservicehomepage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/selfservice/selfservicehomepage.jsp
+END
+changepassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/selfservice/changepassword.jsp
+END
+selfinfoviewandedit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/selfservice/selfinfoviewandedit.jsp
+END

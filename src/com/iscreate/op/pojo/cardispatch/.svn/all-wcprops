@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch
+END
+CardispatchWorkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchWorkorder.java
+END
+CardispatchFrequency.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchFrequency.java
+END
+CardispatchGpsmileage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchGpsmileage.java
+END
+CardispatchDriver.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchDriver.hbm.xml
+END
+CardispatchInstrumentReading.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchInstrumentReading.hbm.xml
+END
+CardispatchDrivercarpair.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchDrivercarpair.hbm.xml
+END
+CardispatchGpsmileageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchGpsmileageId.java
+END
+CardispatchFeerecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchFeerecord.java
+END
+CardispatchFuelBills.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchFuelBills.java
+END
+CardispathTerminal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispathTerminal.hbm.xml
+END
+CardispatchCarterminalpair.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchCarterminalpair.hbm.xml
+END
+CardispatchCar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchCar.java
+END
+CardispatchApplyworkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchApplyworkorder.hbm.xml
+END
+CardispatchOndutydrivercarpair.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchOndutydrivercarpair.java
+END
+CardispatchOndutydrivercarpair.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchOndutydrivercarpair.hbm.xml
+END
+CardispatchApplyworkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchApplyworkorder.java
+END
+CardispatchCarterminalpair.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchCarterminalpair.java
+END
+CardispatchCar.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchCar.hbm.xml
+END
+CardispathTerminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispathTerminal.java
+END
+CardispatchFuelBills.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchFuelBills.hbm.xml
+END
+CardispatchFeerecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchFeerecord.hbm.xml
+END
+CardispatchDrivercarpair.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchDrivercarpair.java
+END
+CardispatchInstrumentReading.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchInstrumentReading.java
+END
+CardispatchDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchDriver.java
+END
+CardispatchGpsmileage.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchGpsmileage.hbm.xml
+END
+CardispatchFrequency.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchFrequency.hbm.xml
+END
+CardispatchWorkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cardispatch/CardispatchWorkorder.hbm.xml
+END

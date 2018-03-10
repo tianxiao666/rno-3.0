@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch
+END
+GisDispatch_UserWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_UserWork.java
+END
+LittleIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/LittleIcon.java
+END
+GisDispatch_LittleIconSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_LittleIconSetting.java
+END
+UserLayerSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/UserLayerSetting.java
+END
+gisdispatch_graphelementtype.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_graphelementtype.hbm.xml
+END
+GisDispatch_LittleIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_LittleIcon.java
+END
+BasicPicUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/BasicPicUnit.java
+END
+GisDispatch_GraphElementTypeAndMileSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_GraphElementTypeAndMileSetting.java
+END
+gisdispatch_littleicon.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_littleicon.hbm.xml
+END
+PicUnitTypeMile.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/PicUnitTypeMile.java
+END
+GisDispatch_GraphElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_GraphElementType.java
+END
+GisDispatch_GraphLayerSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_GraphLayerSetting.java
+END
+GisDispatch_GraphElementTypeSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_GraphElementTypeSetting.java
+END
+UserLayerTypeSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/UserLayerTypeSetting.java
+END
+gisdispatch_graphelementtypesetting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_graphelementtypesetting.hbm.xml
+END
+gisdispatch_graphlayer.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_graphlayer.hbm.xml
+END
+UserConfigTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/UserConfigTree.java
+END
+gisdispatch_graphlayersetting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_graphlayersetting.hbm.xml
+END
+PicUnitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/PicUnitType.java
+END
+GisDispatch_ActiveArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_ActiveArea.java
+END
+PicLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/PicLayer.java
+END
+PicLayerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/PicLayerManager.java
+END
+LatLng.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/LatLng.java
+END
+TaskDetailInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/TaskDetailInfo.java
+END
+gisdispatch_graphelementtypeandmilesetting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_graphelementtypeandmilesetting.hbm.xml
+END
+LatLngBounds.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/LatLngBounds.java
+END
+gisdispatch_activearea.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_activearea.hbm.xml
+END
+GisDispatch_GraphLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/GisDispatch_GraphLayer.java
+END
+UserLittleIconSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/UserLittleIconSetting.java
+END
+gisdispatch_littleiconsetting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_littleiconsetting.hbm.xml
+END
+TaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/TaskInfo.java
+END
+gisdispatch_userwork.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/gisdispatch/gisdispatch_userwork.hbm.xml
+END

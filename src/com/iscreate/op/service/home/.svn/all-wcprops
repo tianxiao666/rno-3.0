@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/home
+END
+HomeItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/home/HomeItemService.java
+END
+HomeItemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/home/HomeItemServiceImpl.java
+END
+HomeSettingsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/home/HomeSettingsService.java
+END
+HomeSettingsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/home/HomeSettingsServiceImpl.java
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/14329/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system
+END
+SysSecurityLoginrecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13099/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysSecurityLoginrecordServiceImpl.java
+END
+SysUserLocationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserLocationServiceImpl.java
+END
+SysSecurityLoginrecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysSecurityLoginrecordService.java
+END
+SysUserLocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserLocationService.java
+END
+SysUserRelaPermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserRelaPermissionServiceImpl.java
+END
+SysUserRelaPermissionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserRelaPermissionService.java
+END
+SysUserManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserManagerService.java
+END
+SysUserManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserManagerServiceImpl.java
+END
+SysAreaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysAreaService.java
+END
+SysAreaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/14095/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysAreaServiceImpl.java
+END
+SysPermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysPermissionServiceImpl.java
+END
+SysPermissionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysPermissionService.java
+END
+SysSecurityBizlogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysSecurityBizlogService.java
+END
+SysSecurityBizlogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysSecurityBizlogServiceImpl.java
+END
+SysUserRelaPostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserRelaPostServiceImpl.java
+END
+SysAccountServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/14329/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysAccountServiceImpl.java
+END
+SysOrganizationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysOrganizationServiceImpl.java
+END
+SysUserRelaPostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserRelaPostService.java
+END
+SysAccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysAccountService.java
+END
+SysOrganizationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysOrganizationService.java
+END
+SysSuperAdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysSuperAdminServiceImpl.java
+END
+SysSuperAdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysSuperAdminService.java
+END
+SysOrgUserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/14329/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysOrgUserServiceImpl.java
+END
+SysOrgUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysOrgUserService.java
+END
+SysRoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysRoleServiceImpl.java
+END
+SysDictionaryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysDictionaryServiceImpl.java
+END
+SysRoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysRoleService.java
+END
+SysDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysDictionaryService.java
+END
+SysUserRelaOrgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserRelaOrgServiceImpl.java
+END
+SysUserRelaOrgService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/system/SysUserRelaOrgService.java
+END

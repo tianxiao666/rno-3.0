@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13099/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface
+END
+WorkOrderCommonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/WorkOrderCommonService.java
+END
+WorkOrderCommonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/WorkOrderCommonServiceImpl.java
+END
+CommonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/CommonService.java
+END
+CommonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/CommonServiceImpl.java
+END
+TaskTracingRecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/TaskTracingRecordServiceImpl.java
+END
+TaskTracingRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/TaskTracingRecordService.java
+END
+BizlogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/BizlogService.java
+END
+BizlogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/BizlogServiceImpl.java
+END
+StationQueryTimerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/StationQueryTimerService.java
+END
+SystemConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13099/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/SystemConfigService.java
+END
+TaskOrderCommonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/TaskOrderCommonServiceImpl.java
+END
+TaskOrderCommonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/TaskOrderCommonService.java
+END
+SessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/SessionService.java
+END
+LoginRecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13099/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/LoginRecordServiceImpl.java
+END
+LoginRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/LoginRecordService.java
+END
+NetworkResourceInterfaceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/NetworkResourceInterfaceService.java
+END
+NetworkResourceInterfaceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/publicinterface/NetworkResourceInterfaceServiceImpl.java
+END

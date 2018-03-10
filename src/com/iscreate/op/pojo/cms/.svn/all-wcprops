@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms
+END
+CmsInforelease.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsInforelease.java
+END
+CmsInfoitemAppraisal.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsInfoitemAppraisal.java
+END
+CmsInfoitem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsInfoitem.java
+END
+CmsReportProjectAppraisal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsReportProjectAppraisal.hbm.xml
+END
+CmsReportProjectAppraisal.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsReportProjectAppraisal.java
+END
+CmsInfoitem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsInfoitem.hbm.xml
+END
+CmsInfoitemApprraisal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsInfoitemApprraisal.hbm.xml
+END
+CmsInforelease.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/cms/CmsInforelease.hbm.xml
+END

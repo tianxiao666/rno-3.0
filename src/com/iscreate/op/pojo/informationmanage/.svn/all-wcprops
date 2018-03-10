@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage
+END
+InformationProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InformationProject.java
+END
+InformationEnterprise.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InformationEnterprise.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Area.java
+END
+Figureline.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Figureline.hbm.xml
+END
+InformationProjectResource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InformationProjectResource.hbm.xml
+END
+Figurenode.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Figurenode.java
+END
+InfoManageOrganization.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InfoManageOrganization.java
+END
+Staff.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Staff.hbm.xml
+END
+Staff.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Staff.java
+END
+InfoManageOrganization.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InfoManageOrganization.hbm.xml
+END
+Figurenode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Figurenode.hbm.xml
+END
+InformationProjectResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InformationProjectResource.java
+END
+Figureline.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Figureline.java
+END
+Area.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/Area.hbm.xml
+END
+InformationProject.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InformationProject.hbm.xml
+END
+InformationEnterprise.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/informationmanage/InformationEnterprise.hbm.xml
+END

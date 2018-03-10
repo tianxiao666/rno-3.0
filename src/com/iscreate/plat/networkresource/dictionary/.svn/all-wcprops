@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary
+END
+EntryOperationConsequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary/EntryOperationConsequence.java
+END
+SearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary/SearchScope.java
+END
+DictionaryOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary/DictionaryOperator.java
+END
+EntryOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary/EntryOperationException.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary/Dictionary.java
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/dictionary/Entry.java
+END

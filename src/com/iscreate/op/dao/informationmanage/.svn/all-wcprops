@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage
+END
+ProjectInformationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/ProjectInformationDao.java
+END
+ProjectInformationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/ProjectInformationDaoImpl.java
+END
+InformationManageNetworkResourceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/InformationManageNetworkResourceDaoImpl.java
+END
+EnterpriseInformationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/EnterpriseInformationDao.java
+END
+EnterpriseInformationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/EnterpriseInformationDaoImpl.java
+END
+InformationManageNetworkResourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/InformationManageNetworkResourceDao.java
+END
+InformationManageAreaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/InformationManageAreaDao.java
+END
+InformationManageAreaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/InformationManageAreaDaoImpl.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/BaseDao.java
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/informationmanage/BaseDaoImpl.java
+END

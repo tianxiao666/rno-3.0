@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage
+END
+WorkmanageTaskorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageTaskorder.hbm.xml
+END
+WorkmanageCountTaskorderObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageCountTaskorderObject.java
+END
+WorkmanageMenu.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageMenu.hbm.xml
+END
+WorkmanageBizprocessConf.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageBizprocessConf.hbm.xml
+END
+WorkmanageStatusreg.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageStatusreg.java
+END
+WorkmanageBizorderHandleRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageBizorderHandleRecord.java
+END
+WorkmanageWorkorderResourceAssociate.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageWorkorderResourceAssociate.java
+END
+WorkmanageBizprocessTaskinfoConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageBizprocessTaskinfoConf.java
+END
+WorkmanageWorkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageWorkorder.java
+END
+WorkmanageParticipant.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageParticipant.hbm.xml
+END
+WorkmanageField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageField.java
+END
+WorkmanageCountWorkorderObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageCountWorkorderObject.java
+END
+WorkmanageCountWorkorderObject.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageCountWorkorderObject.hbm.xml
+END
+WorkmanageField.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageField.hbm.xml
+END
+WorkmanageParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageParticipant.java
+END
+WorkmanageWorkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageWorkorder.hbm.xml
+END
+WorkmanageWorkorderResourceAssociate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageWorkorderResourceAssociate.hbm.xml
+END
+WorkmanageBizprocessTaskinfoConf.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageBizprocessTaskinfoConf.hbm.xml
+END
+WorkmanageBizorderHandleRecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageBizorderHandleRecord.hbm.xml
+END
+WorkmanageStatusreg.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageStatusreg.hbm.xml
+END
+WorkmanageBizprocessConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageBizprocessConf.java
+END
+WorkmanageMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageMenu.java
+END
+WorkmanageCountTaskorderObject.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageCountTaskorderObject.hbm.xml
+END
+WorkmanageTaskorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/workmanage/WorkmanageTaskorder.java
+END

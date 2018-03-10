@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans    
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd   
+http://www.springframework.org/schema/context   
+http://www.springframework.org/schema/context/spring-context-2.5.xsd   
+http://www.springframework.org/schema/aop   
+http://www.springframework.org/schema/aop/spring-aop-2.5.xsd">
+
+	<!-- 缓存客户端 -->
+	<bean name="memCached" class="net.rubyeye.xmemcached.utils.XMemcachedClientFactoryBean" destroy-method="shutdown">
+		<property name="servers">
+			<value>192.168.6.41:11211</value>
+		</property>
+	</bean>
+	<!-- 引入Memcached客户端结束 -->
+
+	<!-- helper -->
+	<bean id="gson" class="com.google.gson.Gson" />
+
+	<!-- 数据源相同的内容 -->
+	<bean id="parentDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="maxPoolSize" value="50" />
+		<property name="minPoolSize" value="5" />
+		<property name="initialPoolSize" value="5" />
+		<!--当连接池中的连接耗尽的时候c3p0一次同时获取的连接数。Default: 3 -->
+		<property name="acquireIncrement" value="5" />
+		<!--定义在从数据库获取新连接失败后重复尝试的次数。Default: 30 -->
+		<property name="acquireRetryAttempts" value="60" />
+		<!--两次连接中间隔时间，单位毫秒。Default: 1000 -->
+		<property name="acquireRetryDelay" value="2000" />
+		<!--c3p0是异步操作的，缓慢的JDBC操作通过帮助进程完成。扩展这些操作可以有效的提升性能 通过多线程实现多个操作同时被执行。Default: 3 -->
+		<property name="numHelperThreads" value="20" />
+		<!-- 数据库重连设置 -->
+		<property name="maxConnectionAge" value="36000" />
+		<!-- 数据库重连设置 -->
+		<property name="maxIdleTime" value="600" />
+		<!-- 每次连接进入连接池时，检查连接 -->
+		<property name="testConnectionOnCheckin" value="true" />
+		<!-- 每隔120秒检查连接池里的空闲连接 ，单位是秒 -->
+		<property name="idleConnectionTestPeriod" value="30" />
+		<!-- 获取新连接的超时时间为10000毫秒 -->
+		<property name="checkoutTimeout" value="10000" />
+		<property name="privilegeSpawnedThreads" value="true" />
+	</bean>
+
+	<bean parent="parentDataSource" id="rnoDataSource">
+		<property name="jdbcUrl" value="jdbc:oracle:thin:@192.168.6.40:1521:testora" />
+		<property name="user" value="iosm5" />
+		<property name="password" value="123456" />
+		<property name="maxPoolSize" value="5" />
+		<property name="minPoolSize" value="1" />
+	</bean>
+	<bean parent="parentDataSource" id="authDataSource">
+		<property name="jdbcUrl" value="jdbc:oracle:thin:@192.168.6.40:1521:testora" />
+		<property name="user" value="iosm5" />
+		<property name="password" value="123456" />
+		<property name="maxPoolSize" value="5" />
+		<property name="minPoolSize" value="1" />
+	</bean>
+	<bean parent="parentDataSource" id="netResDataSource">
+		<property name="jdbcUrl" value="jdbc:oracle:thin:@192.168.6.40:1521:testora" />
+		<property name="user" value="iosm5" />
+		<property name="password" value="123456" />
+		<property name="maxPoolSize" value="5" />
+		<property name="minPoolSize" value="1" />
+	</bean>
+
+	<!-- 编写spring 配置文件的配置多数源映射关系 -->
+	<bean id="oracleDataSource" class="com.iscreate.plat.system.datasourcectl.DynamicDataSource">
+		<property name="targetDataSources">
+			<map key-type="java.lang.String">
+				<entry value-ref="rnoDataSource" key="rnoDataSource" />
+				<entry value-ref="authDataSource" key="authDataSource" />
+				<entry value-ref="netResDataSource" key="netResDataSource" />
+			</map>
+		</property>
+		<property name="defaultTargetDataSource" ref="rnoDataSource">
+		</property>
+	</bean>
+
+	<!-- 数据库源选择的切面控制器 -->
+	<bean id="dataSourceInterceptor" class="com.iscreate.plat.system.datasourcectl.DataSourceInterceptor" />
+
+	<aop:config>
+		<aop:aspect id="dataSourceAspect" ref="dataSourceInterceptor">
+			<aop:before pointcut="execution(* com.iscreate.op.dao.rno..*.*(..))" method="setRnoDataSource" />
+			<aop:before pointcut="execution(* com.iscreate.plat.login.action.LoginAction.*(..))" method="setAuthDataSource" />
+			<aop:before pointcut="execution(* com.iscreate.op.dao.system.*.*(..))" method="setAuthDataSource" />
+			<aop:before pointcut="execution(* com.iscreate.plat..*Dao*.*(..))" method="setAuthDataSource" />
+			<aop:before pointcut="execution(* com.iscreate.plat.networkresource.dataservice.SqlDatabaseService*.*(..))" method="setNetResDataSource" />
+			<aop:before pointcut="execution(* com.iscreate.plat.networkresource.common.dao.*.*(..))" method="setNetResDataSource" />
+		</aop:aspect>
+	</aop:config>
+
+	<!-- HIVE 数据仓库 -->
+	<bean id="hiveDataWareHouse" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="org.apache.hive.jdbc.HiveDriver" />
+		<property name="jdbcUrl" value="jdbc:hive2://192.168.6.101:10000/dev" />
+		<property name="user" value="dev" />
+		<property name="password" value="" />
+		<property name="maxPoolSize" value="5" />
+		<property name="minPoolSize" value="1" />
+	</bean>
+
+	<!-- 定义jdbcTemplate 配置JDBC模板 -->
+	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+		<property name="dataSource" ref="hiveDataWareHouse" />
+	</bean>
+
+	<!-- 注册sessionFactory 改用annotation sessionFactory 不会影响xml配置形式 -->
+	<bean id="sessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="oracleDataSource" />
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</prop>
+				<prop key="hibernate.connection.autocommit">true</prop>
+				<!-- <prop key="hibernate.show_sql">true</prop> -->
+			</props>
+		</property>
+		<property name="mappingLocations">
+			<list>
+				<value>**/*.hbm.xml</value>
+			</list>
+		</property>
+	</bean>
+
+	<!-- 注册事务管理器 -->
+	<bean id="transactionManager" name="transactionManager" class="org.springframework.orm.hibernate3.HibernateTransactionManager">
+		<property name="sessionFactory" ref="sessionFactory" />
+	</bean>
+
+	<!-- hibernateTemplate -->
+	<bean id="hibernateTemplate" class="org.springframework.orm.hibernate3.HibernateTemplate">
+		<property name="sessionFactory" ref="sessionFactory" />
+	</bean>
+</beans>

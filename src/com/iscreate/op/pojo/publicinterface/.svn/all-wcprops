@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface
+END
+Workorderassnetresource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/Workorderassnetresource.hbm.xml
+END
+LoginRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/LoginRecord.java
+END
+Workorderassnetresource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/Workorderassnetresource.java
+END
+SystemSecurityLoginRecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/SystemSecurityLoginRecord.hbm.xml
+END
+SystemSecurityBizlog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/SystemSecurityBizlog.hbm.xml
+END
+Tasktracerecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/Tasktracerecord.java
+END
+Tasktracerecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/Tasktracerecord.hbm.xml
+END
+Bizlog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/publicinterface/Bizlog.java
+END

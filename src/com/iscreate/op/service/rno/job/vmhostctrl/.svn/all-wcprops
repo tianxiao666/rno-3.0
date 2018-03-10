@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/vmhostctrl
+END
+VmHostCtrlServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/vmhostctrl/VmHostCtrlServer.java
+END
+ExecuteShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/vmhostctrl/ExecuteShell.java
+END
+VmHostCtrlClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/vmhostctrl/VmHostCtrlClient.java
+END
+VmHostCtrlClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/vmhostctrl/VmHostCtrlClientImpl.java
+END
+VmCtrlCmdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/vmhostctrl/VmCtrlCmdType.java
+END

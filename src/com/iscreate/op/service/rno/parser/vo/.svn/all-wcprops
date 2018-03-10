@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo
+END
+NcsRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsRecord.java
+END
+Eri2GNcellParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/Eri2GNcellParam.java
+END
+MrrAdmRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrAdmRecord.java
+END
+NcsUmfiNotReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsUmfiNotReport.java
+END
+EriFasRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/EriFasRecord.java
+END
+NcsCellData.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsCellData.java
+END
+EriFasCellData.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/EriFasCellData.java
+END
+Eri2GCellChGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/Eri2GCellChGroup.java
+END
+G4PciRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/G4PciRec.java
+END
+MrrFrameErasureRateRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrFrameErasureRateRec.java
+END
+MrrSignalQualityRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrSignalQualityRec.java
+END
+NcsUmtsNcellData.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsUmtsNcellData.java
+END
+NcsUmtsCellData.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsUmtsCellData.java
+END
+EriFasAdmRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/EriFasAdmRecord.java
+END
+MrrRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrRecord.java
+END
+MrrPathLossDifferenceRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrPathLossDifferenceRec.java
+END
+NcsAdmRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsAdmRecord.java
+END
+NcsNcellData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsNcellData.java
+END
+MrrTransmitPowerLevRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrTransmitPowerLevRec.java
+END
+MrrPathLossRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrPathLossRec.java
+END
+HW2GMrrRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/HW2GMrrRecord.java
+END
+MrrSignalStrengthRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrSignalStrengthRec.java
+END
+NcsIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsIndex.java
+END
+MrrActulTimingAdvanceRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrActulTimingAdvanceRec.java
+END
+HW2GMrrFRateRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/HW2GMrrFRateRec.java
+END
+MrrNumOfMeaResultsRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/MrrNumOfMeaResultsRec.java
+END
+HW2GMrrHRateRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/HW2GMrrHRateRec.java
+END
+NcsFreqNotReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/parser/vo/NcsFreqNotReport.java
+END

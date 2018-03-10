@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system
+END
+SysSecurityLoginrecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysSecurityLoginrecord.java
+END
+SysArea.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysArea.hbm.xml
+END
+SysPermission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysPermission.hbm.xml
+END
+SysRoleType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysRoleType.hbm.xml
+END
+SysDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysDictionary.java
+END
+SysAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysAccount.java
+END
+SysOrgUser.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgUser.hbm.xml
+END
+SysDictionary.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysDictionary.hbm.xml
+END
+SysSecurityBizlog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysSecurityBizlog.java
+END
+SysUserRelaOrg.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysUserRelaOrg.hbm.xml
+END
+SysRoleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysRoleType.java
+END
+SysOrgAttributeExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgAttributeExt.java
+END
+SysRoleRelaPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysRoleRelaPermission.java
+END
+SysPermissionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysPermissionType.java
+END
+SysUserRelaRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysUserRelaRole.java
+END
+SysOrgRelaArea.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgRelaArea.hbm.xml
+END
+SysSecurityLoginrecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysSecurityLoginrecord.hbm.xml
+END
+SysOrgType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgType.java
+END
+SysFunctionModule.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysFunctionModule.hbm.xml
+END
+SysOrgRelaArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgRelaArea.java
+END
+SysPermissionType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysPermissionType.hbm.xml
+END
+SysUserRelaRole.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysUserRelaRole.hbm.xml
+END
+SysOrg.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrg.hbm.xml
+END
+SysRoleRelaPermission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysRoleRelaPermission.hbm.xml
+END
+SysOrgAttributeExt.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgAttributeExt.hbm.xml
+END
+SysUserRelaOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysUserRelaOrg.java
+END
+SysSecurityBizlog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysSecurityBizlog.hbm.xml
+END
+SysRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysRole.java
+END
+SysOrgUserPm.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgUserPm.hbm.xml
+END
+SysAccount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysAccount.hbm.xml
+END
+SysOrgUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgUser.java
+END
+SysUserRelaPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysUserRelaPost.java
+END
+SysOrgUserPm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgUserPm.java
+END
+SysRole.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysRole.hbm.xml
+END
+SysPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysPermission.java
+END
+SysArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysArea.java
+END
+SysOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13712/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrg.java
+END
+SysOrgType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysOrgType.hbm.xml
+END
+SysFunctionModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/system/SysFunctionModule.java
+END

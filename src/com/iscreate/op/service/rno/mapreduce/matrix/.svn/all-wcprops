@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/14064/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/matrix
+END
+MatrixReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13139/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/matrix/MatrixReducer.java
+END
+G4PciMatrixMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13734/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/matrix/G4PciMatrixMapper.java
+END
+NewPciMatrixReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/14064/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/matrix/NewPciMatrixReducer.java
+END
+G4PciMatrixReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13734/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/matrix/G4PciMatrixReducer.java
+END
+MatrixMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/matrix/MatrixMapper.java
+END

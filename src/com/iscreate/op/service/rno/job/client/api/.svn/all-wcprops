@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/client/api
+END
+JobClientDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/client/api/JobClientDelegate.java
+END
+JobClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/client/api/JobClient.java
+END
+JobClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/client/api/JobClientImpl.java
+END
+WorkerToManagerNodeClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/client/api/WorkerToManagerNodeClientImpl.java
+END
+WorkerToManagerNodeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/client/api/WorkerToManagerNodeClient.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/14094/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage
+END
+WorkOrderHandleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkOrderHandleService.java
+END
+WorkOrderHandleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkOrderHandleServiceImpl.java
+END
+WorkManageTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkManageTimer.java
+END
+BizInfoFactoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/BizInfoFactoryService.java
+END
+WorkmanageStatusregService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkmanageStatusregService.java
+END
+WorkmanageStatusregServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkmanageStatusregServiceImpl.java
+END
+WorkFlowInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkFlowInfoServiceImpl.java
+END
+WorkFlowInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkFlowInfoService.java
+END
+TaskOrderHandleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/TaskOrderHandleServiceImpl.java
+END
+TaskOrderHandleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/TaskOrderHandleService.java
+END
+WorkManageIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkManageIdGenerator.java
+END
+BizprocessTaskinfoConfServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/BizprocessTaskinfoConfServiceImpl.java
+END
+BizprocessTaskinfoConfService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/BizprocessTaskinfoConfService.java
+END
+WorkManageTimerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkManageTimerTest.java
+END
+WorkManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkManageService.java
+END
+WorkManageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkManageServiceImpl.java
+END
+FieldServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/FieldServiceImpl.java
+END
+FieldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/FieldService.java
+END
+WorkManageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/WorkManageException.java
+END
+CommonQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/CommonQueryServiceImpl.java
+END
+CommonQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/CommonQueryService.java
+END
+MenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/MenuService.java
+END
+MenuServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/MenuServiceImpl.java
+END
+BizProcessConfService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/BizProcessConfService.java
+END
+BizProcessConfServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/BizProcessConfServiceImpl.java
+END

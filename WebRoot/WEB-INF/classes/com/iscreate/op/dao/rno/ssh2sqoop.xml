@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>sqoop位置配置</comment>
+	<entry key="host"><![CDATA[192.168.50.81]]></entry>
+	<entry key="port"><![CDATA[22]]></entry>
+	<entry key="user"><![CDATA[rnoprohbase]]></entry>
+	<entry key="pwd"><![CDATA[rnoproHbase]]></entry>
+	<entry key="cmd"><![CDATA[/home/rnoprohbase/sqoop.sh &&rm -rf sqoop.lock\n]]></entry>
+</properties> 

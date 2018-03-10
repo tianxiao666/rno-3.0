@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/14064/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model
+END
+Ncell.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13960/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/Ncell.java
+END
+NewNcell.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/14064/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/NewNcell.java
+END
+MrData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13735/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/MrData.java
+END
+RsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13735/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/RsData.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13960/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/Cell.java
+END
+NewCellWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13735/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/NewCellWritable.java
+END
+NewCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/14064/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/NewCell.java
+END
+HoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13735/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/mapreduce/model/HoData.java
+END

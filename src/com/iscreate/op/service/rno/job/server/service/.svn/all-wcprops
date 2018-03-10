@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/14309/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/service
+END
+WorkerToManagerNodeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/service/WorkerToManagerNodeService.java
+END
+JobClientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/service/JobClientService.java
+END
+NodeResourceManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/14309/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/service/NodeResourceManagerService.java
+END
+VmCtrlCmdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/service/VmCtrlCmdType.java
+END

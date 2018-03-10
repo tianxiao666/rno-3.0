@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage
+END
+ImportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/ImportService.java
+END
+ImportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/ImportServiceImpl.java
+END
+GisDispatchAreaResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/GisDispatchAreaResourceService.java
+END
+GisDispatchAreaResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/GisDispatchAreaResourceServiceImpl.java
+END
+FirstLetterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/FirstLetterService.java
+END
+FirstLetterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/FirstLetterServiceImpl.java
+END
+PhysicalresService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/PhysicalresService.java
+END
+PhysicalresServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/PhysicalresServiceImpl.java
+END
+ShowResOnMapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/ShowResOnMapService.java
+END
+ShowResOnMapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/ShowResOnMapServiceImpl.java
+END
+NetworkReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/NetworkReportService.java
+END
+NetworkReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/NetworkReportServiceImpl.java
+END
+StaffOrganizationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/StaffOrganizationService.java
+END
+StaffOrganizationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/networkresourcemanage/StaffOrganizationServiceImpl.java
+END

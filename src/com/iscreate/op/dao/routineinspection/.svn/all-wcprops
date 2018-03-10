@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection
+END
+RoutineinspectionTaskorderQuestionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineinspectionTaskorderQuestionDao.java
+END
+RoutineinspectionTaskorderQuestionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineinspectionTaskorderQuestionDaoImpl.java
+END
+RoutineInspectionTaskDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineInspectionTaskDao.java
+END
+RoutineInspectionTaskDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineInspectionTaskDaoImpl.java
+END
+RoutineinspectionQuestionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineinspectionQuestionDao.java
+END
+RoutineinspectionQuestionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineinspectionQuestionDaoImpl.java
+END
+RoutineInspectionTaskRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineInspectionTaskRecordDao.java
+END
+RoutineInspectionTaskRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineInspectionTaskRecordDaoImpl.java
+END
+RoutineInspectionPlanDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineInspectionPlanDao.java
+END
+RoutineInspectionPlanDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/routineinspection/RoutineInspectionPlanDaoImpl.java
+END

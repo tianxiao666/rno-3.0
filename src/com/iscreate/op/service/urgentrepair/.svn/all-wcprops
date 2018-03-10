@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair
+END
+UrgentRepairSenceTaskOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairSenceTaskOrderService.java
+END
+UrgentRepairSenceTaskOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairSenceTaskOrderServiceImpl.java
+END
+faultGenera.mapping
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/faultGenera.mapping
+END
+UrgentRepairTechSupportTaskOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairTechSupportTaskOrderService.java
+END
+UrgentRepairTechSupportTaskOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairTechSupportTaskOrderServiceImpl.java
+END
+UrgentRepairWorkOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairWorkOrderService.java
+END
+UrgentRepairWorkOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairWorkOrderServiceImpl.java
+END
+BizResourceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/BizResourceReader.java
+END
+faultType.mapping
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/faultType.mapping
+END
+UrgentRepairCustomerWorkOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairCustomerWorkOrderService.java
+END
+UrgentRepairCustomerWorkOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/UrgentRepairCustomerWorkOrderServiceImpl.java
+END
+acceptProfessional.mapping
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/urgentrepair/acceptProfessional.mapping
+END

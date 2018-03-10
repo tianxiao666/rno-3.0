@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres
+END
+addPhysicalres.jspForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/addPhysicalres.jspForAjax.jsp
+END
+addPhysicalres.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/addPhysicalres.jsp
+END
+updatePhysicalresForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/updatePhysicalresForAjax.jsp
+END
+addResourcePageForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/addResourcePageForAjax.jsp
+END
+showOdmsAndTerminalsPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/showOdmsAndTerminalsPanel.jsp
+END
+showBasicResourceInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/showBasicResourceInfo.jsp
+END
+operateResourcePanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/operateResourcePanel.jsp
+END
+resourceImport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/resourceImport.jsp
+END
+searchResourceList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/searchResourceList.jsp
+END
+associatedResourceForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/associatedResourceForAjax.jsp
+END
+showResourcForFlattern.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/showResourcForFlattern.jsp
+END
+aeMapAttrSearchForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/aeMapAttrSearchForAjax.jsp
+END
+aeMapAttrSearchNewForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/aeMapAttrSearchNewForAjax.jsp
+END
+showDDFPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/showDDFPanel.jsp
+END
+addOdmsAndTerminals.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/addOdmsAndTerminals.jsp
+END
+searchResourceListForGisMap.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/searchResourceListForGisMap.jsp
+END
+addDDFOdmsAndTerminals.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/addDDFOdmsAndTerminals.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/upload.jsp
+END
+operationPhysicalres.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/operationPhysicalres.jsp
+END
+operateDDFPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/operateDDFPanel.jsp
+END
+updateResourcePageForAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/updateResourcePageForAjax.jsp
+END
+operationPhysicalresForGisDispatch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/resource/physicalres/operationPhysicalresForGisDispatch.jsp
+END

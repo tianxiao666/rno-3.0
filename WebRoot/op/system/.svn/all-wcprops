@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system
+END
+userDataRange.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/userDataRange.jsp
+END
+addSysOrgUserView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/addSysOrgUserView.jsp
+END
+userSetRoleAndPermission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/userSetRoleAndPermission.jsp
+END
+updateSysOrgUserView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/updateSysOrgUserView.jsp
+END
+systemUserManagerInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/systemUserManagerInfo.jsp
+END
+systemUserManagerList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/system/systemUserManagerList.jsp
+END
+systemManageHomePage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/systemManageHomePage.jsp
+END
+authorizeAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/system/authorizeAccount.jsp
+END

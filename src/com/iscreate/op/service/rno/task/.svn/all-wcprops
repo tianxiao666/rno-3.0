@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/15464/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task
+END
+ExecutorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/ExecutorManager.java
+END
+IdwDataCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/IdwDataCalculator.java
+END
+MapreduceBaseJobRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13741/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/MapreduceBaseJobRunnable.java
+END
+TaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/TaskStatus.java
+END
+RnoRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/RnoRenderer.java
+END
+RnoTaskWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/RnoTaskWorker.java
+END
+RnoBaseJobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/RnoBaseJobManager.java
+END
+EriCellDataExportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/EriCellDataExportManager.java
+END
+EriCellDataExportManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/task/EriCellDataExportManagerImpl.java
+END

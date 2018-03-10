@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<udf>
+	<fun>
+		<funname>lnglathelper</funname>
+		<classpath>/home/rnohbase/apache-hive-1.2.0-bin/auxlib/udf-lnglathelper.jar</classpath>
+		<package>com.iscreate.hive.udf.LngLatHelper</package>
+		<desc>hive所在系统下的功能函数：lnglathelper(lng1,lat1,lng2,lat2) 获取两点间的距离</desc>
+	</fun>
+</udf>

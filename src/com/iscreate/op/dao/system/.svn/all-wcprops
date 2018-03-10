@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system
+END
+SysAreaRelaOrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysAreaRelaOrgDao.java
+END
+SysOrgUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysOrgUserDao.java
+END
+SysAreaRelaOrgDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysAreaRelaOrgDaoImpl.java
+END
+SysOrgUserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysOrgUserDaoImpl.java
+END
+SysDictionaryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysDictionaryDaoImpl.java
+END
+SysDictionaryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysDictionaryDao.java
+END
+SysUserRelaOrgDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaOrgDaoImpl.java
+END
+SysUserRelaOrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaOrgDao.java
+END
+SysSecurityLoginrecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysSecurityLoginrecordDaoImpl.java
+END
+SysSecurityLoginrecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysSecurityLoginrecordDao.java
+END
+SysUserManagerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserManagerDaoImpl.java
+END
+SysUserManagerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserManagerDao.java
+END
+SysPermissionTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysPermissionTypeDaoImpl.java
+END
+SysUserRelaRoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaRoleDaoImpl.java
+END
+SysPermissionTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysPermissionTypeDao.java
+END
+SysUserRelaRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaRoleDao.java
+END
+SysOrgAttrExtDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysOrgAttrExtDaoImpl.java
+END
+SysOrgAttrExtDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysOrgAttrExtDao.java
+END
+SysRoleRelaPermissionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysRoleRelaPermissionDaoImpl.java
+END
+SysRoleRelaPermissionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysRoleRelaPermissionDao.java
+END
+SysSecurityBizlogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysSecurityBizlogDaoImpl.java
+END
+SysSecurityBizlogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysSecurityBizlogDao.java
+END
+SysAccountDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysAccountDaoImpl.java
+END
+SysOrganizationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysOrganizationDaoImpl.java
+END
+SysAccountDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysAccountDao.java
+END
+SysOrganizationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysOrganizationDao.java
+END
+SysRoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysRoleDaoImpl.java
+END
+SysRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysRoleDao.java
+END
+SysUserRelaPermissionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaPermissionDaoImpl.java
+END
+SysUserRelaPermissionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaPermissionDao.java
+END
+SysUserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserDaoImpl.java
+END
+SysUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserDao.java
+END
+SysAreaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysAreaDaoImpl.java
+END
+SysAreaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysAreaDao.java
+END
+SysPermissionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysPermissionDao.java
+END
+SysPermissionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysPermissionDaoImpl.java
+END
+SysRoleTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysRoleTypeDaoImpl.java
+END
+SysRoleTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysRoleTypeDao.java
+END
+SysUserRelaPostDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaPostDaoImpl.java
+END
+SysUserRelaPostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysUserRelaPostDao.java
+END
+SysSuperAdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysSuperAdminDaoImpl.java
+END
+SysSuperAdminDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/system/SysSuperAdminDao.java
+END

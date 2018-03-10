@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/source/!svn/ver/15635/iosm/rno_branches/v3.0/conf/spring
+END
+dictionary-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/dictionary-appcontx.xml
+END
+bizmessage-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/bizmessage-appcontx.xml
+END
+rno-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/15634/iosm/rno_branches/v3.0/conf/spring/rno-appcontx.xml
+END
+structure-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/structure-appcontx.xml
+END
+pdagpslocation-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/pdagpslocation-appcontx.xml
+END
+systemStaff-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/systemStaff-appcontx.xml
+END
+systemconfig-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/systemconfig-appcontx.xml
+END
+system-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/system-appcontx.xml
+END
+resourcewebservice-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/resourcewebservice-appcontx.xml
+END
+annotation-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13998/iosm/rno_branches/v3.0/conf/spring/annotation-appcontx.xml
+END
+urgentrepair-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/urgentrepair-appcontx.xml
+END
+cardispatch-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/cardispatch-appcontx.xml
+END
+common-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13100/iosm/rno_branches/v3.0/conf/spring/common-appcontx.xml
+END
+physicalres-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/physicalres-appcontx.xml
+END
+selfservice-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/selfservice-appcontx.xml
+END
+download-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/download-appcontx.xml
+END
+cardispatch-timer-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/cardispatch-timer-appcontx.xml
+END
+log-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/log-appcontx.xml
+END
+rno-job-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/rno-job-appcontx.xml
+END
+rnov1_2-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/13728/iosm/rno_branches/v3.0/conf/spring/rnov1_2-appcontx.xml
+END
+networkresourcemanage-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/networkresourcemanage-appcontx.xml
+END
+sysorganization-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/sysorganization-appcontx.xml
+END
+datadictionary-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/datadictionary-appcontx.xml
+END
+home-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/home-appcontx.xml
+END
+report-routineinspection-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/report-routineinspection-appcontx.xml
+END
+inteceptor-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/inteceptor-appcontx.xml
+END
+workmanage_timer-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/workmanage_timer-appcontx.xml
+END
+workorderinterface-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/workorderinterface-appcontx.xml
+END
+networkresource-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/networkresource-appcontx.xml
+END
+exceptionhandler-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/exceptionhandler-appcontx.xml
+END
+tools-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/tools-appcontx.xml
+END
+rno-upload-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/16584/iosm/rno_branches/v3.0/conf/spring/rno-upload-appcontx.xml
+END
+routineinspection-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/routineinspection-appcontx.xml
+END
+networkresourcemaintenance-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/networkresourcemaintenance-appcontx.xml
+END
+dynamicformfield-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/dynamicformfield-appcontx.xml
+END
+mobile-networkresourcemanage-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/mobile-networkresourcemanage-appcontx.xml
+END
+workmanage-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/workmanage-appcontx.xml
+END
+staffduty-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/staffduty-appcontx.xml
+END
+workmanage_commonquery-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/workmanage_commonquery-appcontx.xml
+END
+systemauthority-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/systemauthority-appcontx.xml
+END
+report-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/report-appcontx.xml
+END
+stafforganization-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/stafforganization-appcontx.xml
+END
+gis-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/gis-appcontx.xml
+END
+informationmanage-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/informationmanage-appcontx.xml
+END
+dataservice-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/dataservice-appcontx.xml
+END
+gisdispatch-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/gisdispatch-appcontx.xml
+END
+cms-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/cms-appcontx.xml
+END
+datasource-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/16584/iosm/rno_branches/v3.0/conf/spring/datasource-appcontx.xml
+END
+systemdictionary-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13766/iosm/rno_branches/v3.0/conf/spring/systemdictionary-appcontx.xml
+END
+resourcedictionary-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/resourcedictionary-appcontx.xml
+END
+ops-login-access-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/ops-login-access-appcontx.xml
+END
+rnov1_3-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/source/!svn/ver/15635/iosm/rno_branches/v3.0/conf/spring/rnov1_3-appcontx.xml
+END
+transationproxy-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/transationproxy-appcontx.xml
+END
+appentitylib-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/appentitylib-appcontx.xml
+END
+treeengine-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/treeengine-appcontx.xml
+END
+workflow-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/workflow-appcontx.xml
+END
+tree-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/tree-appcontx.xml
+END
+sortObject-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/sortObject-appcontx.xml
+END
+email-appcontx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/conf/spring/email-appcontx.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13716/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/impl
+END
+JobNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/impl/JobNode.java
+END
+JobWorkerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13716/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/impl/JobWorkerNode.java
+END
+JobRunningContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/impl/JobRunningContext.java
+END
+JMContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/impl/JMContext.java
+END
+JobManagerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/job/server/impl/JobManagerNode.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/organization
+END
+providerOrgAccountPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/organization/providerOrgAccountPage.jsp
+END
+organizationMainPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/organization/organizationMainPage.jsp
+END
+org_networkresource_info.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/organization/org_networkresource_info.jsp
+END
+providerOrgBaseInfoPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/organization/providerOrgBaseInfoPage.jsp
+END
+customerOrgBaseInfoPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/organization/customerOrgBaseInfoPage.jsp
+END
+organizationByOrgIdPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13158/iosm/rno_branches/v3.0/WebRoot/op/organization/organizationByOrgIdPage.jsp
+END
+customerOrgAccountPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/WebRoot/op/organization/customerOrgAccountPage.jsp
+END

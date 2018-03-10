@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch
+END
+CardispatchManageServiceForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchManageServiceForMobile.java
+END
+CardispatchManageServiceImplForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchManageServiceImplForMobile.java
+END
+CardispatchWorkorderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchWorkorderService.java
+END
+CardispatchWorkorderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchWorkorderServiceImpl.java
+END
+CardispatchWorkorderServiceForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchWorkorderServiceForMobile.java
+END
+CardispatchWorkorderServiceImplForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchWorkorderServiceImplForMobile.java
+END
+CardispatchManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchManageService.java
+END
+CardispatchManageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchManageServiceImpl.java
+END
+CardispatchExportExcelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchExportExcelService.java
+END
+CardispatchTimerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchTimerService.java
+END
+CardispatchTimerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchTimerServiceImpl.java
+END
+CardispatchCarLocusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchCarLocusService.java
+END
+CardispatchCarLocusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchCarLocusServiceImpl.java
+END
+CardispatchCommonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchCommonService.java
+END
+CardispatchCommonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchCommonServiceImpl.java
+END
+CarFuelReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CarFuelReportServiceImpl.java
+END
+CarFuelReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CarFuelReportService.java
+END
+CardispatchDutyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchDutyService.java
+END
+CardispatchDutyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/cardispatch/CardispatchDutyServiceImpl.java
+END

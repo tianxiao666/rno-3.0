@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection
+END
+RoutineinspectionTaskorderQuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineinspectionTaskorderQuestionService.java
+END
+RoutineinspectionTaskorderQuestionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineinspectionTaskorderQuestionServiceImpl.java
+END
+RoutineInspectionTaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineInspectionTaskService.java
+END
+RoutineInspectionTaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineInspectionTaskServiceImpl.java
+END
+RoutineInspectionTaskRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineInspectionTaskRecordService.java
+END
+RoutineInspectionTaskRecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineInspectionTaskRecordServiceImpl.java
+END
+RoutineinspectionQuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineinspectionQuestionService.java
+END
+RoutineinspectionQuestionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineinspectionQuestionServiceImpl.java
+END
+RoutineInspectionPlanService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineInspectionPlanService.java
+END
+RoutineInspectionPlanServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/routineinspection/RoutineInspectionPlanServiceImpl.java
+END

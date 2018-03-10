@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair
+END
+UrgentrepairWorkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairWorkorder.java
+END
+UrgentrepairDevice2gworkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairDevice2gworkorder.hbm.xml
+END
+UrgentrepairTechsupporttaskorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairTechsupporttaskorder.java
+END
+UrgentrepairSencetaskorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairSencetaskorder.java
+END
+UrgentrepairSencetaskorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairSencetaskorder.hbm.xml
+END
+UrgentrepairDevicetdworkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairDevicetdworkorder.java
+END
+UrgentrepairDevicetdworkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairDevicetdworkorder.hbm.xml
+END
+UrgentrepairTechsupporttaskorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairTechsupporttaskorder.hbm.xml
+END
+UrgentrepairDevice2gworkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairDevice2gworkorder.java
+END
+UrgentrepairWorkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairWorkorder.hbm.xml
+END
+UrgentrepairCustomerworkorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairCustomerworkorder.java
+END
+UrgentrepairCustomerworkorder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/pojo/urgentrepair/UrgentrepairCustomerworkorder.hbm.xml
+END

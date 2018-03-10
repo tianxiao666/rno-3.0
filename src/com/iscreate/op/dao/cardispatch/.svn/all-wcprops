@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch
+END
+CardispatchDutyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchDutyDaoImpl.java
+END
+CardispatchDutyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchDutyDao.java
+END
+CardispatchCarDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchCarDao.java
+END
+CardispatchCarDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchCarDaoImpl.java
+END
+CardispatchFuelBillsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchFuelBillsDao.java
+END
+CardispatchFuelBillsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchFuelBillsDaoImpl.java
+END
+CardispatchTerminalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchTerminalDao.java
+END
+CardispatchWorkorderDaoForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchWorkorderDaoForMobile.java
+END
+CardispatchTerminalDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchTerminalDaoImpl.java
+END
+CardispatchWorkorderDaoImplForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchWorkorderDaoImplForMobile.java
+END
+CardispatchWorkorderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchWorkorderDao.java
+END
+CardispatchWorkorderDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchWorkorderDaoImpl.java
+END
+CardispatchDriverDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchDriverDaoImpl.java
+END
+CardispatchDriverDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchDriverDao.java
+END
+CardispatchTimerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchTimerDao.java
+END
+CardispatchInstrumentReadingDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchInstrumentReadingDaoImpl.java
+END
+CardispatchInstrumentReadingDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchInstrumentReadingDao.java
+END
+CardispatchTimerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchTimerDaoImpl.java
+END
+CardispatchCommonDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchCommonDaoImpl.java
+END
+CardispatchCommonDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchCommonDao.java
+END
+CardispatchGpsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchGpsDaoImpl.java
+END
+CardispatchGpsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CardispatchGpsDao.java
+END
+CarFuelReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CarFuelReportDao.java
+END
+CarFuelReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/dao/cardispatch/CarFuelReportDaoImpl.java
+END

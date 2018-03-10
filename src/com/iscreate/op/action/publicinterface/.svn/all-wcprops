@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface
+END
+LoginRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface/LoginRecordAction.java
+END
+WorkOrderCommonAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface/WorkOrderCommonAction.java
+END
+NetworkResourceInterfaceActionForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface/NetworkResourceInterfaceActionForMobile.java
+END
+TaskTracingRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface/TaskTracingRecordAction.java
+END
+TerminalUpdateVersionInfoActionForMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface/TerminalUpdateVersionInfoActionForMobile.java
+END
+NetworkResourceInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/action/publicinterface/NetworkResourceInterfaceAction.java
+END

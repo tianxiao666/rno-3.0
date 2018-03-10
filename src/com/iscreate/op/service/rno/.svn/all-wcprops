@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/source/!svn/ver/15647/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno
+END
+Rno2GCellAnalysisServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno2GCellAnalysisServiceImpl.java
+END
+Rno2GCellAnalysisService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno2GCellAnalysisService.java
+END
+RnoReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoReportServiceImpl.java
+END
+RnoReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoReportService.java
+END
+RnoUserDefinedServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoUserDefinedServiceImpl.java
+END
+RnoUserDefinedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoUserDefinedService.java
+END
+RnoResourceManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13921/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoResourceManagerServiceImpl.java
+END
+RnoResourceManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13763/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoResourceManagerService.java
+END
+RnoLtePciServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13981/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoLtePciServiceImpl.java
+END
+RnoLtePciService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13865/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoLtePciService.java
+END
+RnoResourceManagerHbaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13713/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoResourceManagerHbaseServiceImpl.java
+END
+RnoResourceManagerHbaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13713/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoResourceManagerHbaseService.java
+END
+RnoInterferenceAnalysisServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoInterferenceAnalysisServiceImpl.java
+END
+RnoInterferenceAnalysisService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoInterferenceAnalysisService.java
+END
+RnoPlanDesignServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoPlanDesignServiceImpl.java
+END
+RnoPlanDesignService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoPlanDesignService.java
+END
+RnoNcsDynaCoverageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13185/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoNcsDynaCoverageServiceImpl.java
+END
+RnoNcsDynaCoverageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13185/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoNcsDynaCoverageService.java
+END
+RnoTrafficStaticsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoTrafficStaticsServiceImpl.java
+END
+RnoTrafficStaticsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoTrafficStaticsService.java
+END
+RnoResourceManagerHiveServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13046/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoResourceManagerHiveServiceImpl.java
+END
+RnoResourceManagerHiveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13046/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoResourceManagerHiveService.java
+END
+RnoIndexDisplayServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13921/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoIndexDisplayServiceImpl.java
+END
+RnoDtServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoDtServiceImpl.java
+END
+RnoIndexDisplayService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoIndexDisplayService.java
+END
+RnoDtService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoDtService.java
+END
+RnoTrafficRendererServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoTrafficRendererServiceImpl.java
+END
+RnoTrafficRendererService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoTrafficRendererService.java
+END
+RnoFileUploadServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/15643/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoFileUploadServiceImpl.java
+END
+RnoFileUploadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoFileUploadService.java
+END
+Rno4GPciServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/14012/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno4GPciServiceImpl.java
+END
+Rno4GPciService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13143/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno4GPciService.java
+END
+RnoLteCellManageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoLteCellManageServiceImpl.java
+END
+RnoLteCellManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoLteCellManageService.java
+END
+RnoRendererRuleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoRendererRuleService.java
+END
+RnoRendererRuleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoRendererRuleServiceImpl.java
+END
+Rno2GEriCellManageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno2GEriCellManageServiceImpl.java
+END
+Rno2GEriCellManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno2GEriCellManageService.java
+END
+RnoCommonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/srcsvn/source/!svn/ver/13829/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoCommonService.java
+END
+Rno2GHwCellManageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno2GHwCellManageServiceImpl.java
+END
+MemCached.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/MemCached.java
+END
+Rno2GHwCellManageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/Rno2GHwCellManageService.java
+END
+RnoCommonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/15647/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoCommonServiceImpl.java
+END
+RnoLteMapOperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoLteMapOperServiceImpl.java
+END
+RnoStructureService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13252/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoStructureService.java
+END
+RnoLteMapOperService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoLteMapOperService.java
+END
+RnoStructureServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/14012/iosm/rno_branches/v3.0/src/com/iscreate/op/service/rno/RnoStructureServiceImpl.java
+END

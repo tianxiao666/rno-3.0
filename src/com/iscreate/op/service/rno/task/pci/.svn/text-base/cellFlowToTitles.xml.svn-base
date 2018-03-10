@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+	<field>
+		<name>CELL_ID</name>
+		<type>String</type>
+		<essential>1</essential>
+		<match>1</match>
+		<exceltitle>cellId</exceltitle>
+	</field>
+	<field>
+		<name>CELL_DFLOW</name>
+		<type>Float</type>
+		<essential>1</essential>
+		<match>1</match>
+		<exceltitle>下行小区流量（MB）</exceltitle>
+	</field>
+	<field>
+		<name>CELL_UFLOW</name>
+		<type>Float</type>
+		<essential>1</essential>
+		<match>1</match>
+		<exceltitle>上行小区流量（MB）</exceltitle>
+	</field>
+	<field>
+		<name>IS_DT_CELL</name>
+		<type>String</type>
+		<essential>1</essential>
+		<match>1</match>
+		<exceltitle>是否为道路小区</exceltitle>
+	</field>
+</table>

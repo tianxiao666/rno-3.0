@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC 
+       "-//SPRING//DTD BEAN//EN"
+       "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<!-- ######################### action ######################### begin -->
+	<bean id="rnoLteCellManageAction" class="com.iscreate.op.action.rno.RnoLteCellManageAction" singleton="false">
+		<property name="rnoCommonService" ref="rnoCommonService"></property>
+		<property name="rnoLteCellManageService" ref="rnoLteCellManageService"></property>
+	</bean>
+
+	<!-- LTE小区地图展示 -->
+	<bean id="rnoLteMapOperAction" class="com.iscreate.op.action.rno.RnoLteMapOperAction" singleton="false">
+		<property name="rnoCommonService" ref="rnoCommonService"></property>
+		<property name="rnoLteMapOperService" ref="rnoLteMapOperService"></property>
+		<property name="rnoLteCellManageService" ref="rnoLteCellManageService"></property>
+	</bean>
+	<!-- ######################### action ######################### end -->
+
+	<!-- ######################### service ######################### begin -->
+	<!-- LTE小区地图展示 -->
+	<bean id="rnoLteMapOperService" class="com.iscreate.op.service.rno.RnoLteMapOperServiceImpl" singleton="false">
+		<property name="rnoLteMapOperDao" ref="rnoLteMapOperDao"></property>
+		<property name="memCached" ref="memCached"></property>
+		<property name="sysAreaService" ref="sysAreaService" />
+		<property name="sysAreaDao" ref="sysAreaDao" />
+	</bean>
+	<!-- 区域锁定管理器 -->
+	<bean id="areaLockManager" class="com.iscreate.op.service.rno.parser.AreaLockManagerImpl" singleton="true" />
+	<bean id="rnoLteCellManageService" class="com.iscreate.op.service.rno.RnoLteCellManageServiceImpl" singleton="false">
+		<property name="rnoLteCellDao" ref="rnoLteCellDao"></property>
+	</bean>
+	<!-- ######################### service ######################### end -->
+
+	<!-- ######################### dao ######################### begin -->
+	<!-- lte小区管理dao -->
+	<bean id="rnoLteCellDao" class="com.iscreate.op.dao.rno.RnoLteCellDaoImpl" singleton="false">
+		<property name="hibernateTemplate" ref="hibernateTemplate"></property>
+	</bean>
+
+	<!-- LTE小区地图展示 -->
+	<bean id="rnoLteMapOperDao" class="com.iscreate.op.dao.rno.RnoLteMapOperDaoImpl" singleton="false">
+		<property name="hibernateTemplate" ref="hibernateTemplate"></property>
+	</bean>
+	<!-- ######################### dao ######################### end -->
+</beans>

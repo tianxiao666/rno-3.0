@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance
+END
+Restrain_AppTemplateName.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Restrain_AppTemplateName.java
+END
+TypeSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/TypeSwitch.java
+END
+Restrain_Association.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Restrain_Association.java
+END
+BizLogic_GetAetNameOfAetg.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/BizLogic_GetAetNameOfAetg.java
+END
+Restrain_AppTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Restrain_AppTemplate.java
+END
+BasicLogicEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/BasicLogicEnvironment.java
+END
+RestrainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/RestrainFactory.java
+END
+Structure_BizLogic_GetRecursionQueryParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure_BizLogic_GetRecursionQueryParent.java
+END
+Structure_BizLogic_GetRecursionParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure_BizLogic_GetRecursionParent.java
+END
+StructureView_BizLogic_GetAssociatedQueryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/StructureView_BizLogic_GetAssociatedQueryEntity.java
+END
+StructureView.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/StructureView.java
+END
+Structure_BizLogic_GetRecursionQueryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure_BizLogic_GetRecursionQueryEntity.java
+END
+Structure_BizLogic_GetAssociatedQueryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure_BizLogic_GetAssociatedQueryEntity.java
+END
+Structure_BizLogic_GetRecursionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure_BizLogic_GetRecursionEntity.java
+END
+Structure_BizLogic_GetAssociatedEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure_BizLogic_GetAssociatedEntity.java
+END
+BizLogic_GetRecursionEntityAbstrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/BizLogic_GetRecursionEntityAbstrace.java
+END
+BizLogic_GetAssociatedAetName.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/BizLogic_GetAssociatedAetName.java
+END
+Structure.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/Structure.java
+END
+StructureView_BizLogic_GetAssociatedEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/networkresource/structure/instance/StructureView_BizLogic_GetAssociatedEntity.java
+END

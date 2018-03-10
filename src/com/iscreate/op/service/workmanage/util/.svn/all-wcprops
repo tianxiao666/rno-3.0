@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/source/!svn/ver/14094/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util
+END
+CommonTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/CommonTools.java
+END
+CommonQueryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/CommonQueryUtil.java
+END
+workManageBizMsgConf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/workManageBizMsgConf.xml
+END
+EncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/14094/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/EncodingFilter.java
+END
+GzipJsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/GzipJsFilter.java
+END
+OrderIdUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/OrderIdUtil.java
+END
+IdGeneratorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/IdGeneratorUtil.java
+END
+DataSelectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/DataSelectUtil.java
+END
+InterfaceConfLoadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/srcsvn/source/!svn/ver/13099/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/InterfaceConfLoadUtil.java
+END
+exportOrderMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/workmanage/util/exportOrderMapping.xml
+END

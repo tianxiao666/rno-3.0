@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:util="http://www.springframework.org/schema/util" 
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	   http://www.springframework.org/schema/beans/spring-beans-2.5.xsd   
+	   http://www.springframework.org/schema/util 
+	   http://www.springframework.org/schema/util/spring-util-2.5.xsd">
+	<!-- 文件接收判断 -->
+	<util:map id="fileAcceptables" map-class="java.util.HashMap">
+		<entry key="default" value-ref="baseFileAcceptableImpl"></entry>
+		<entry key="ERICSSONNCSFILE" value-ref="eriNcsFileAcceptableImpl"></entry>
+		<entry key="HUAWEINCSFILE" value-ref="hwNcsFileAcceptableImpl"></entry>
+		<entry key="RNO_PCI_PLAN_IMPORT" value-ref="pciPlanImportFileAcceptableImpl"></entry>
+		<entry key="RNO_PCI_PLAN_IMPORT_FLOW" value-ref="pciPlanImportFlowFileAcceptableImpl"></entry>
+	</util:map>
+	<!-- 任务提交判断 -->
+	<util:map id="dataUploadJobSubmits" map-class="java.util.HashMap">
+		<entry key="default" value-ref="baseDataUploadJobSubmit"></entry>
+		<entry key="ERICSSONNCSFILE" value-ref="eriNcsMrrDataUploadJobSubmit"></entry>
+		<entry key="ERICSSONMRRFILE" value-ref="eriNcsMrrDataUploadJobSubmit"></entry>
+		<entry key="RNO_PCI_PLAN_IMPORT_FLOW" value-ref="pciImportFlowDataUploadJobSubmit"></entry>
+		<entry key="RNO_PCI_PLAN_FLOW_FILE" value-ref="pciFlowDataUploadJobSubmit"></entry>
+		<entry key="RNO_PCI_PLAN_IMPORT_NEW" value-ref="pciImportDataUploadJobSubmit"></entry>
+		<entry key="RNO_PCI_PLAN_FLOW_FILE_NEW" value-ref="newPciFlowDataUploadJobSubmit"></entry>
+	</util:map>
+	
+</beans>

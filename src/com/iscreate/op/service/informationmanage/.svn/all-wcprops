@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage
+END
+EnterpriseInformationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/EnterpriseInformationService.java
+END
+EnterpriseInformationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/EnterpriseInformationServiceImpl.java
+END
+InformationManageNetworkResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/InformationManageNetworkResourceService.java
+END
+InformationManageNetworkResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/InformationManageNetworkResourceServiceImpl.java
+END
+InformationManageAreaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/InformationManageAreaService.java
+END
+InformationManageAreaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/InformationManageAreaServiceImpl.java
+END
+BaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/BaseService.java
+END
+BaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/BaseServiceImpl.java
+END
+InformationNetworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/InformationNetworkService.java
+END
+InformationNetworkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/InformationNetworkServiceImpl.java
+END
+ProjectInformationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/ProjectInformationService.java
+END
+ProjectInformationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/op/service/informationmanage/ProjectInformationServiceImpl.java
+END

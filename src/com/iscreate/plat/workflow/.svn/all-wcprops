@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow
+END
+WFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/WFException.java
+END
+FlowBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/FlowBean.java
+END
+FlowBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/FlowBeanFactory.java
+END
+BeanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/BeanType.java
+END
+ServiceBeanProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/ServiceBeanProxy.java
+END
+FlowProcessorBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/FlowProcessorBeanImpl.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/Constant.java
+END
+SessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/SessionFactory.java
+END
+NodeActionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/srcsvn/source/!svn/ver/13007/iosm/rno_branches/v3.0/src/com/iscreate/plat/workflow/NodeActionEvent.java
+END
